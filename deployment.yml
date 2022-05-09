@@ -26,7 +26,7 @@ spec:
           requests:
             cpu: 200m
           limits:
-            cpu: 100m
+            cpu: 200m
 
 ---
 apiVersion: v1
